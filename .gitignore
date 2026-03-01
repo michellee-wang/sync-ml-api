@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Model checkpoints
+checkpoints/
+*.hdf5
+*.weights.h5
+
+# Generated outputs
+output*.mid
+# Env / secrets
+.env
+.env.local
+*.pem
+
+# IDE / OS
+.vscode/
+.idea/
+.cursor/
+.DS_Store
