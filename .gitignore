@@ -22,3 +22,6 @@ output*.mid
 .idea/
 .cursor/
 .DS_Store
+
+# Accidental .git copies
+.git copy/
