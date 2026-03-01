@@ -93,9 +93,4 @@ python train.py --weights checkpoint.hdf5 --epochs 100   # resume
 
 Add MIDI files to `midi_songs/`. The repo references a corpus of lo-fi and jazz-style MIDI; you can use your own. Run the data prep (see `lofi/data.py` / training flow) to produce `data/notes` for training.
 
-this dataset is from kaggle# sync-ml-api
-# sync-ml-api
-# sync-ml-api
-# sync-ml-api
-# sync-ml-api
-# sync-ml-api
+this dataset is from kaggle
